@@ -1,5 +1,3 @@
 # ciao_rollo
 
-radiografie
-
-cartella medica paziente 0
+cartella radiografie dei vari pazienti
