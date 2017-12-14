@@ -1,3 +1,5 @@
 # ciao_rollo
-descrizione di quello che sto facendo
-commit 1 editor
+
+radiografie
+
+cartella medica paziente 0
